@@ -2,12 +2,15 @@
 menu:
   Home: /
   Archives: /archives
-rss: /atom.xml
+  About: /about
+
 
 # Content
 excerpt_link: Read More
 fancybox: true
 
+
+
 # Miscellaneous
 google_analytics:
-favicon: /favicon.png
+favicon: http://bloodshed.qiniudn.com/favicon.png
